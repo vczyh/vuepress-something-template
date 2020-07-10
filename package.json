@@ -4,7 +4,7 @@
   "description": "vuepress-theme-something template",
   "main": "index.js",
   "repository": "https://github.com/vczyh/vuepress-something-template",
-  "author": "zhangyuheng",
+  "author": "vczyh",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",
@@ -12,6 +12,6 @@
   },
   "devDependencies": {
     "vuepress": "^1.4.1",
-    "vuepress-theme-something": "^1.0.28"
+    "vuepress-theme-something": "^1.0.35"
   }
 }
